@@ -28,10 +28,10 @@ class MainActivity : AppCompatActivity() {
             binding.tvAge.text = student.age.toString()
             binding.tvProgramme.text = student.programme*/
 
-            /*student.programme = "RIS"
+            student.programme = "RIS"
             binding.apply{
                 invalidateAll()
-            }*/
+            }
 
         }
 

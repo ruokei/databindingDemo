@@ -7,7 +7,7 @@
     <data>
         <variable
             name="myData"
-            type="com.example.databindingdemo.databinding" />
+            type="com.example.databindingdemo.Student" />
     </data>
 
     <LinearLayout
